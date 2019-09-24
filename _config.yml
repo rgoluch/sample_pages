@@ -1,7 +1,10 @@
 theme: jekyll-theme-slate
 
+title: Ryan Goluch
 name: Ryan Goluch
 markdown: kramdown
+
+github_username: rgoluch
 
 plugins:
   - jekyll-sitemap
