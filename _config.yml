@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 
 name: Ryan Goluch
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
