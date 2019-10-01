@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+@import "jekyll-theme-slate";
 @import "jekyll-theme-slate";
 ul {
     list-style-type: none;
